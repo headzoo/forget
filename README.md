@@ -2,6 +2,10 @@ Forget
 ======
 Forget is a Go client library used to interact with [Forgettable](https://github.com/bitly/forgettable) servers.
 
+[![Build Status](https://img.shields.io/travis/headzoo/forget/master.svg)](https://travis-ci.org/headzoo/forget)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/headzoo/forget)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/headzoo/forget/master/LICENSE.md)
+
 ### Installation
 Download the library using go.  
 `go get github.com/headzoo/forget`
